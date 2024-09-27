@@ -1,0 +1,538 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* first project start */
+.about-one{
+    background-image: url("./image/cat.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 322px;
+    margin-top: 148px;
+}
+.about-two {
+	width: 438px;
+	height: 360px;
+	margin: 0 auto;
+	position: relative;
+	top: -78px;
+	border: 19px solid #F1C50E;
+    color: white;
+}
+.about-two h1 {
+	position: relative;
+	top: 112px;
+	font-size: 55px;
+	margin-left: 51px;
+    font-family: 'Montserrant',sans-serif;
+    font-weight: bold;
+}
+.about-three a {
+	margin-left: 503px;
+	position: relative;
+	top: 50px;
+    color: #F1C50E;
+    background-color: black;
+	font-size: 15px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	border: 1px solid;
+	padding: 17px 69px;
+}
+/* first project end */
+/* second project start */
+.click{
+    margin-top: 160px;
+    background-color: #F2F2F2;
+    height: 652px;
+}
+.again p {
+	position: relative;
+	top: 140px;
+	margin-left: 92px;
+	font-weight: bold;
+}
+.start h1 {
+	margin-left: 431px;
+	font-weight: bold;
+    font-family: 'Montserrant',sans-serif;
+}  
+.start p {
+	width: 781px;
+	margin-left: 433px;
+	margin-top: 32px;
+	font-size: 21px;
+    font-family: 'Montserrant',sans-serif;
+}
+.start a{
+    text-decoration: none;
+    color: black;
+}
+.head {
+	width: 373px;
+	height: 256px;
+	border: 10px solid #F1C50E;
+	margin-top: 76px;
+	margin-left: 372px;
+}
+.head h1 {
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+	position: relative;
+	top: 23px;
+	margin-left: 33px;
+}
+.head p {
+	margin-top: 35px;
+	font-size: 17px;
+	width: 312px;
+	margin-left: 31px;
+}
+.line {
+	width: 373px;
+	height: 256px;
+	background-color: white;
+	margin-top: -256px;
+	margin-left: 806px;
+}
+.line h1 {
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+	position: relative;
+	top: 23px;
+	margin-left: 33px;
+}
+.line p {
+	margin-top: 46px;
+	font-size: 17px;
+	width: 359px;
+	margin-left: 31px;
+}
+/* second project end */
+/* third project start */
+.cat{
+    height: 750px;
+}
+.cat-one {
+	display: flex;
+	margin-left: 95px;
+	gap: 39px;
+}
+.cat-one img {
+	width: 20%;
+	margin-top: 214px;
+}
+.cat-one .pro {
+	position: relative;
+	top: -129px;
+	width: 385px;
+	margin-left: 34px;
+	height: 295px;
+}
+.cat-one .pro-one{
+    margin-left: 34px;
+}
+.cat-two img {
+	width: 385px;
+	margin-top: -149px;
+	position: relative;
+	margin-left: 404px;
+	height: 295px;
+}
+/* third project end */
+
+/* four project start */
+.people{
+    background-color: #F2F2F2;
+}
+.that h1 {
+	text-align: center;
+	font-size: 38px;
+	font-weight: bold;
+	position: relative;
+	top: 66px;
+    font-family: 'Monserrant',sans-serif;
+}
+.ins {
+	display: flex;
+	gap: 30px;
+	margin-left: 77px;
+}
+.ins img {
+	width: 272px;
+	margin-top: 102px;
+	height: 266px;
+}
+.ins .live {
+	width: 269px;
+	height: 267px;
+	border: 18px solid #F1C50E;
+	margin-top: 102px;
+}
+.ins p {
+	width: 207px;
+	margin-top: 95px;
+	font-size: 17px;
+}
+.market h1 {
+	position: relative;
+	top: -220px;
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+	margin-left: 412px;
+}
+/* four project end */
+/* five project start */
+.help-one{
+    margin-top: 265px;
+    margin-left: 59px;
+    position: relative;
+    top: -105px;
+}
+.help-one h1 {
+	font-weight: bold;
+	font-size: 36px;
+}
+.help-one span{
+    color: #F1C50E;
+}
+.help-one p {
+	font-size: 21px;
+	margin-top: 25px;
+	line-height: 24px;
+    font-family: 'open sans',sans-serif;
+}
+.dolor a {
+    color: #F1C50E;
+    background-color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;
+	border: 1px solid;
+	padding: 19px 69px;
+	position: relative;
+	top: 19px;
+	margin-left: 57px;
+}
+.more img {
+	width: 586px;
+	margin-top: -517px;
+	margin-left: 674px;
+	height: 595px;
+}
+.more-one {
+	width: 452px;
+	height: 442px;
+	border: 18px solid #F1C50E;
+	margin-top: -355px;
+	position: relative;
+	top: -180px;
+	margin-left: 740px;
+}
+/* five project end */
+/* six project start */
+.goal h1 {
+	margin-left: 60px;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 39px;
+    font-family: 'Montserrant',sans-serif;
+}
+.solve-one{
+    display: flex;
+    gap: 58px;
+    margin-left: 80px;
+}
+.solve-one img {
+	width: 335px;
+	height: 514px;
+	margin-top: 43px;
+}
+.solve-one .goal-one {
+	border-radius: 50%;
+	width: 266px;
+	height: 266px;
+	margin-top: -39px;
+}
+.solve-two img {
+	width: 346px;
+	height: 286px;
+	margin-top: -244px;
+	position: relative;
+	top: -40px;
+	margin-left: 431px;
+}
+/* six project end */
+/* seven project start */
+.sint-one{
+    background-image: url("./image/cat13.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 497px;
+    background-blend-mode: multiply;
+    background-color: #00000085;
+}
+.sint-two h1 {
+	margin-left: 422px;
+	color: white;
+	position: relative;
+	top: 62px;
+	font-size: 44px;
+	font-weight: bold;
+	width: 471px;
+	height: 113px;
+	border: 15px solid #F1C50E;
+	text-align: center;
+}
+.sint-three h1{
+    margin-left: 469px;
+	color: white;
+	position: relative;
+	top: 84px;
+	font-size: 44px;
+	font-weight: bold;
+}
+.sint-four h1{
+    margin-left: 422px;
+	color: white;
+	position: relative;
+	top: 106px;
+	font-size: 44px;
+	font-weight: bold;
+}
+.anim p {
+	position: relative;
+	top: 111px;
+	color: white;
+	width: 480px;
+	margin-left: 359px;
+}
+/* seven project end */
+/* eight project start */
+.meet-one h1 {
+	margin-top: 50px;
+	text-align: center;
+	font-size: 31px;
+	font-weight: bold;
+    font-family: 'Monserrant',sans-serif;
+}
+.meet-two {
+	border: 16px solid #F1C50E;
+	width: 1183px;
+	height: 222px;
+	margin-left: 34px;
+	margin-top: 220px;
+}
+.team{
+    display: flex;
+    gap: 155px;
+    margin-left: 326px;
+}
+.team img {
+	width: 209px;
+	height: 227px;
+	margin-top: -396px;
+}
+
+.team-one {
+	display: flex;
+	position: relative;
+	top: -141px;
+	margin-left: 397px;
+	gap: 305px;
+}
+.team-one h4 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+.nick{
+    display: flex;
+    gap: 155px;
+    margin-left: 326px;
+}
+.nick img {
+	width: 209px;
+	height: 227px;
+	margin-top: -93px;
+}
+.paul {
+	display: flex;
+	position: relative;
+	top: 24px;
+	margin-left: 397px;
+	gap: 305px;
+}
+.paul h4 {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+
+/* eight project end */
+/* nine project start */
+.coach{
+    background-color: black;
+    margin-top: 65px;
+}
+.coach-one {
+	position: relative;
+	top: 101px;
+	color: white;
+	margin-left: 81px;
+}
+.coach-one h1 {
+	font-size: 38px;
+	font-weight: bold;
+    font-family: 'Montserrant',sans-serif;
+}
+.coach-one p {
+	width: 368px;
+	font-size: 20px;
+	margin-top: 29px;
+    font-family: 'Montserrant',sans-serif;
+}
+.call {
+	border: 18px solid #F1C50E;
+	width: 349px;
+	height: 547px;
+	position: relative;
+	margin-top: -468px;
+	margin-left: 460px;
+}
+.call-one h4 {
+	color: white;
+	font-size: 31px;
+	position: relative;
+	top: 41px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+.call-one p {
+	text-align: center;
+	position: relative;
+	top: 56px;
+	color: white;
+}
+.loc h4 {
+	text-align: center;
+	color: white;
+	margin-top: 87px;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+.loc p {
+	color: white;
+	margin-left: 72px;
+	position: relative;
+	top: 16px;
+    line-height: 16px;
+}
+.top h3 {
+	margin-top: 66px;
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: bold;
+}
+.top h4 {
+	text-align: center;
+	color: white;
+	text-transform: capitalize;
+	font-size: 17px;
+	font-weight: bold;
+	margin-top: 25px;
+}
+.top h5 {
+	text-align: center;
+	color: white;
+	text-transform: capitalize;
+	font-size: 17px;
+	font-weight: bold;
+	margin-top: 25px;
+    position: relative;
+    top: -13px;
+}
+.top h6 {
+	text-align: center;
+	color: white;
+	text-transform: capitalize;
+	font-size: 17px;
+	font-weight: bold;
+	margin-top: 25px;
+    position: relative;
+    top: -26px;
+}
+.cart img {
+	width: 417px;
+	height: 543px;
+	margin-top: -580px;
+	margin-left: 795px;
+}
+/* nine project end */
+/* ten project start */
+.web{
+    background-color: rgba(0, 0, 0, 0.685);
+    height: 253px;
+}
+.site p{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.idea {
+	display: flex;
+	position: relative;
+	top: 135px;
+	margin-left: 484px;
+	font-size: 14px;
+	gap: 3px;
+	color: white;
+}
+.idea a{
+    color: #adcce9;
+}
+/* ten project end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
